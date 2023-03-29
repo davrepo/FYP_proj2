@@ -3,7 +3,7 @@
 ##
 
 # data folder and all of its contents
-data/
+data/*
 
 # PyCharm ide files
 .idea
