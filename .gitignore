@@ -2,6 +2,9 @@
 ## Python Section - See https://github.com/github/gitignore/blob/master/Python.gitignore
 ##
 
+# data folder and all of its contents
+data/
+
 # PyCharm ide files
 .idea
 
