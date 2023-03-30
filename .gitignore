@@ -2,8 +2,10 @@
 ## Python Section - See https://github.com/github/gitignore/blob/master/Python.gitignore
 ##
 
-# data folder and all of its contents
-data/images/*
+# data folder images content, as size is too big for Github
+data/images/imgs_part_1/*
+data/images/imgs_part_2/*
+data/images/imgs_part_3/*
 
 # PyCharm ide files
 .idea
