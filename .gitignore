@@ -3,9 +3,7 @@
 ##
 
 # data folder images content, as size is too big for Github
-data/images/imgs_part_1/*
-data/images/imgs_part_2/*
-data/images/imgs_part_3/*
+data/images/*
 
 # PyCharm ide files
 .idea
