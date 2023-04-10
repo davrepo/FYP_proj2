@@ -1,0 +1,63 @@
+commit 4cbd44cccf6f30e2c94c48212d04dfe929ddd002
+Author: volcanodoryshrimpnettuba <111703011+volcanodoryshrimpnettuba@users.noreply.github.com>
+Date:   Thu Mar 30 18:34:35 2023 +0200
+
+    literature, lecture material
+
+commit a330199e11e390d4a0288ca843c727f64141ef70
+Author: volcanodoryshrimpnettuba <111703011+volcanodoryshrimpnettuba@users.noreply.github.com>
+Date:   Thu Mar 30 12:59:08 2023 +0200
+
+    .
+
+commit 7eb27585e689fe533e824c56cf36c5ea65d2748a
+Author: volcanodoryshrimpnettuba <111703011+volcanodoryshrimpnettuba@users.noreply.github.com>
+Date:   Thu Mar 30 12:58:05 2023 +0200
+
+    .
+
+commit afbf551b3f66f9fd3f98dd5bb9bb09f633057625
+Author: volcanodoryshrimpnettuba <111703011+volcanodoryshrimpnettuba@users.noreply.github.com>
+Date:   Thu Mar 30 12:56:24 2023 +0200
+
+    .
+
+commit 8a022fd843b1790ddad2920b71afe2197e13547a
+Author: volcanodoryshrimpnettuba <111703011+volcanodoryshrimpnettuba@users.noreply.github.com>
+Date:   Thu Mar 30 12:53:43 2023 +0200
+
+    add folders
+
+commit 042cffcd0a1c1b6ace99840c3b002b9bd57f3ac8
+Author: volcanodoryshrimpnettuba <111703011+volcanodoryshrimpnettuba@users.noreply.github.com>
+Date:   Wed Mar 29 13:59:18 2023 +0200
+
+    Path description
+
+commit 61fbadde6f0c29064841d60c75d2361773402b9e
+Author: volcanodoryshrimpnettuba <111703011+volcanodoryshrimpnettuba@users.noreply.github.com>
+Date:   Wed Mar 29 13:50:17 2023 +0200
+
+    data folder
+    
+    there is data folder, but all files within this folder are ignored
+
+commit 0b5d6c2ab5dc9fffa029fdc8799ce1ff22a3e29c
+Author: volcanodoryshrimpnettuba <111703011+volcanodoryshrimpnettuba@users.noreply.github.com>
+Date:   Wed Mar 29 13:41:52 2023 +0200
+
+    initial setup
+
+commit f020dafe408828a4a4fea3ab9f74d768b1962f28
+Author: volcanodoryshrimpnettuba <111703011+volcanodoryshrimpnettuba@users.noreply.github.com>
+Date:   Tue Mar 28 15:14:14 2023 +0200
+
+    Create .gitignore
+    
+    added .gitignore
+
+commit cd5f13e4973b7d1431505cc6406a866eda2e31fc
+Author: volcanodoryshrimpnettuba <111703011+volcanodoryshrimpnettuba@users.noreply.github.com>
+Date:   Tue Mar 28 14:09:51 2023 +0200
+
+    Initial commit
