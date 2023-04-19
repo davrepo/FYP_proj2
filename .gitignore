@@ -3,7 +3,7 @@
 ##
 
 # data folder images content, as size is too big for Github
-data/images/*
+data/*
 
 # PyCharm ide files
 .idea
