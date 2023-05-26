@@ -6,14 +6,11 @@ import os
 from os.path import exists
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import cv2
+from PIL import Image
 
 # Import our own file that has the feature extraction functions
-
-
-# TO REINSTATE:
-# from extract_features import extract_features
+from extract_features import extract_features
 
 
 
@@ -23,10 +20,11 @@ import cv2
 
 
 #Where is the raw data
-file_data = '..' + os.sep + 'data' + os.sep +'selected_images.csv'
-path_image = '..' + os.sep + 'data' + os.sep + 'images' + os.sep + 'imgs_part_1'
-path_mask = '..' + os.sep + 'data' + os.sep + 'shanon_masks_total'
-    
+file_data = 'data' + os.sep +'selected_images.csv'
+path_image = 'data' + os.sep + 'images' + os.sep + 'imgs_part_1'
+path_mask = 'data' + os.sep + 'shanon_masks_total'
+
+
 #Where we will store the features
 if not os.path.exists('features'):
     os.makedirs('features')

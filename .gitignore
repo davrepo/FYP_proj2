@@ -3,7 +3,14 @@
 ##
 
 # data folder images content, as size is too big for Github
-data/*
+# data/*
+# ignore chunk
+fyp2023/chunk_0_features.npy
+fyp2023/chunk_1_features.npy
+fyp2023/chunk_2_features.npy
+fyp2023/pca_transformed_chunck_0_features.npy
+fyp2023/pca_transformed_chunck_1_features.npy
+fyp2023/pca_transformed_chunck_2_features.npy
 
 # PyCharm ide files
 .idea
