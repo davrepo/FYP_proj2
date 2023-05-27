@@ -22,7 +22,7 @@ NB! In 03_evaluate.classifier.py, the classify(img, mask) function accepts only 
 classify_path(img_path, mask_path) accepts image paths as parameters.
 
 ## How to run the project
-```{python}
+```python
 from PIL import Image
 
 image_path = '..' + os.sep + 'FYP_proj2' + os.sep + 'data' + os.sep +'images_resized' + os.sep + 'PAT_710_1330_243.PNG'
