@@ -55,6 +55,6 @@ Functions used to generate tables and figures in the report are in the notebooks
 - groupXY_classifier.sav (the main directory)
 
 ## Function that tkaes an image/mask and outputs its probability of being suspicious
-classify(img, mask)
-classify_path(image_path, mask_path)
+- classify(img, mask)
+- classify_path(image_path, mask_path) 
 located at /fyp2023/03_evaluate.classifier.py
