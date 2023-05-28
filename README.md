@@ -56,5 +56,5 @@ Functions used to generate tables and figures in the report are in the notebooks
 
 ## Function that tkaes an image/mask and outputs its probability of being suspicious
 - classify(img, mask)
-- classify_path(image_path, mask_path) 
+- classify_path(image_path, mask_path)  
 located at /fyp2023/03_evaluate.classifier.py
